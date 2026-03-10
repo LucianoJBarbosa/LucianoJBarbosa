@@ -11,7 +11,7 @@ Passei por governo do estado e instituição de ensino superior — ambientes on
 **Experiência / Experience**
 
 - 2 anos e 10 meses · Instituto Infnet — EdTech
-- 1 anos e 9 meses · Governo do Estado do Rio de Janeiro — GovTech
+- 1 anos e 9 meses · Governo do Estado do Rio de Janeiro - PRODERJ — GovTech
 
 ---
 
