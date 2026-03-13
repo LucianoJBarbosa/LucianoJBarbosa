@@ -3,13 +3,13 @@
 Quase 5 anos construindo, mantendo e analisando sistemas em produção.  
 Passei por governo do estado e instituição de ensino superior — ambientes onde sistema parado tem custo real.
 
-*Nearly 5 years building, maintaining, and analyzing production systems.*  
+*5 years building, maintaining, and analyzing production systems.*  
 *Government and higher education — environments where downtime has real cost.*
 
 ---
 
 **Experiência / Experience**
-
+- 3 meses até o momento · Projetos autônomos e open-source
 - 2 anos e 10 meses · Instituto Infnet — EdTech
 - 1 anos e 9 meses · Governo do Estado do Rio de Janeiro - PRODERJ — GovTech
 
