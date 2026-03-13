@@ -9,7 +9,7 @@ Passei por governo do estado e instituição de ensino superior — ambientes de
 ---
 
 **Experiência / Experience**
-- 3 meses até o momento · Projetos autônomos e open-source
+- 4 meses até o momento · Projetos autônomos e open-source
 - 2 anos e 10 meses · Instituto Infnet — EdTech
 - 1 anos e 9 meses · Governo do Estado do Rio de Janeiro - PRODERJ — GovTech
 
