@@ -1,6 +1,6 @@
 # Luciano J. Barbosa Filho - Software Engineer
 
-Quase 5 anos construindo, mantendo e analisando sistemas em produção.  
+5 anos construindo, mantendo e analisando sistemas em produção.  
 Passei por governo do estado e instituição de ensino superior — ambientes onde sistema parado tem custo real.
 
 *5 years building, maintaining, and analyzing production systems.*  
