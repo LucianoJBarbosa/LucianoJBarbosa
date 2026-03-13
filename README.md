@@ -1,7 +1,7 @@
 # Luciano J. Barbosa Filho - Software Engineer
 
 5 anos construindo, mantendo e analisando sistemas em produção.  
-Passei por governo do estado e instituição de ensino superior — ambientes onde sistema parado tem custo real.
+Passei por governo do estado e instituição de ensino superior — ambientes de sistemas críticos.
 
 *5 years building, maintaining, and analyzing production systems.*  
 *Government and higher education — environments where downtime has real cost.*
