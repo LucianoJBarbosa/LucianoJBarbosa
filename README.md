@@ -17,7 +17,7 @@ Passei por governo do estado e instituição de ensino superior — ambientes de
 
 **Stack**
 
-PHP · Laravel — back-end para aplicações web 
+PHP · Laravel — back-end para aplicações web  
 C# · .NET Core — back-end para aplicações enterprise  
 Go — aprendizado ativo, foco em performance e serviços  
 React · Vue — front-end, sem restrição de framework  
