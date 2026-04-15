@@ -20,18 +20,11 @@ Passei por governo do estado e instituição de ensino superior — ambientes de
 PHP · Laravel — back-end para aplicações web  
 C# · .NET Core — back-end para aplicações enterprise  
 Go — aprendizado ativo, foco em performance e serviços  
-React · Vue — front-end, sem restrição de framework  
+React · Vite — front-end
 SQL · REST APIs — base de qualquer sistema
 
-*Primary back-end in PHP/Laravel. Deliver in Java, C#, Go, or whatever the system demands.*  
-*Front-end in React or Vue. Integrate anything.*
-
----
-
-**Princípio / Principle**
-
-> A tecnologia serve ao sistema. Não carrego preferência de stack como dogma.  
-> *Technology serves the system. I don't treat stack preferences as dogma.*
+*back-end in PHP/Laravel for web, C# and .NET for enterprise, Go for performance.*  
+*Front-end in React using Vite. Integrate anything.*
 
 ---
 
