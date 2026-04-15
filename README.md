@@ -23,7 +23,7 @@ Go — aprendizado ativo, foco em performance e serviços
 React · Vite — front-end
 SQL · REST APIs — base de qualquer sistema
 
-*back-end in PHP/Laravel for web, C# and .NET for enterprise, Go for performance.*  
+*Back-end in PHP/Laravel for web, C# and .NET for enterprise, Go for performance.*  
 *Front-end in React using Vite. Integrate anything.*
 
 ---
