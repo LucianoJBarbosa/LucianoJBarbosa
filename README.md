@@ -20,8 +20,8 @@ Passei por governo do estado e instituição de ensino superior — ambientes de
 PHP · Laravel — back-end para aplicações web  
 C# · .NET Core — back-end para aplicações enterprise  
 Go — aprendizado ativo, foco em performance e serviços  
-React · Vite — front-end
-SQL · REST APIs — base de qualquer sistema
+React · Vite — front-end   
+MySQL, SQL Server, PostgreSQL · Banco de dados relacionais.
 
 *Back-end in PHP/Laravel for web, C# and .NET for enterprise, Go for performance.*  
 *Front-end in React using Vite. Integrate anything.*
