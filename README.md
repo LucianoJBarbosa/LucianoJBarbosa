@@ -17,9 +17,8 @@ Passei por governo do estado e instituição de ensino superior — ambientes de
 
 **Stack**
 
-PHP · Laravel — back-end primário, qualquer escala  
-Java · Spring Boot — sistemas corporativos e integrações  
-C# · .NET Core — aplicações enterprise  
+PHP · Laravel — back-end para aplicações web
+C# · .NET Core — back-end para aplicações enterprise  
 Go — aprendizado ativo, foco em performance e serviços  
 React · Vue — front-end, sem restrição de framework  
 SQL · REST APIs — base de qualquer sistema
